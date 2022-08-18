@@ -9,7 +9,7 @@ homepage: true
 
 We held a first in-person Never Surrender party on April 23, and have started planning for another one on July 29.
 
-**[Read our latest Coronavirus update.]({% link blog/coronavirus-update-2/ %})**
+**[Read our latest Coronavirus update.]({{ '/blog/coronavirus-update-2/' | relative_url}})**
 
 * * *
 
@@ -17,7 +17,7 @@ We held a first in-person Never Surrender party on April 23, and have started pl
 
 **Eutopia Rising** is an event coordination and education group dedicated to forging the future of sexual culture through games and play.
 
-Interested? [Apply to be a Voyager now.]({% link apply/ %})
+Interested? [Apply to be a Voyager now.]({{ '/apply/' | relative_url }})
 
 * * *
 
