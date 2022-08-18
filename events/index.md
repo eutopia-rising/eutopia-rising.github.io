@@ -9,7 +9,7 @@ layout: page
   <article>
     {% if page.image.title %}
     <figure>
-      <img src="{{ page.dir}}{{ page.image.title }}" width="970" alt="{{ page.title | escape_once }}" itemprop="image">
+      <img src="{{ page.dir | relative_url}}{{ page.image.title }}" width="970" alt="{{ page.title | escape_once }}" itemprop="image">
 
       {% if page.image.caption_url and page.image.caption %}
       <figcaption class="text-right">
@@ -22,7 +22,7 @@ layout: page
       {% endif %}
     </figure>
     {% endif %}
-    <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+    <h1><a href="{{ page.url | relative_url }}">{{ page.title }}</a></h1>
     <time>{{ page.date | date: "%B %-d, %Y" }}</time>
     {{ page.content }}
   </article>
