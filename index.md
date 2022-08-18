@@ -7,12 +7,6 @@ header:
 homepage: true
 ---
 
-We held a first in-person Never Surrender party on April 23, and have started planning for another one on July 29.
-
-**[Read our latest Coronavirus update.]({{ '/blog/coronavirus-update-2/' | relative_url}})**
-
-* * *
-
 **Eutopia** means “good place.” It is a dream we share in defiance, a dream of a future that we will travel to together, bringing all our joy, all our love, all our power to change the world.
 
 **Eutopia Rising** is an event coordination and education group dedicated to forging the future of sexual culture through games and play.
@@ -20,6 +14,13 @@ We held a first in-person Never Surrender party on April 23, and have started pl
 Interested? [Apply to be a Voyager now.]({{ '/apply/' | relative_url }})
 
 * * *
+
+We are holding our Never Surrender parties again. After one on April 23 and one on July 29, our next party will be on September 9.
+
+**[Read our latest Coronavirus update.]({{ '/blog/coronavirus-update-2/' | relative_url}})**
+
+* * *
+
 
 If you'd like to support our brave crew of voluntqueers in our ongoing good works, please consider joining us on [Patreon](https://www.patreon.com/eutopia_rising):
 

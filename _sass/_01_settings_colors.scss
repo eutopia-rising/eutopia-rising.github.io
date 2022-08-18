@@ -28,7 +28,7 @@ $body-bg            : #fdfdfd;
    Two last from Triad, with middle #931E4B (using DE)
 ------------------------------------------------------------------- */
 
-$ci-1               : #A13118; // pink
+$ci-1               : #A65373; // pink
 $ci-2               : #AB1F1A; // pink
 $ci-3               : #931E4B; // dark pink
 $ci-4               : #AB1A9A; // reddish
@@ -81,21 +81,21 @@ $topbar-bg          : $topbar-bg-color;
 $topbar-dropdown-toggle-color: $ci-3;
 
 $topbar-link-color  : #000;
-$topbar-link-color-hover: #000;
-$topbar-link-color-active: #000;
-$topbar-link-color-active-hover: #000;
+$topbar-link-color-hover: #fff;
+$topbar-link-color-active: #fff;
+$topbar-link-color-active-hover: #fff;
 
-$topbar-dropdown-label-color: $ci-2;
+$topbar-dropdown-label-color: $ci-1;
 $topbar-dropdown-link-bg-hover: $ci-3;
 
 $topbar-link-bg-active: $ci-3; // Active Navigation Link
 $topbar-link-bg-hover: $ci-3;
-$topbar-link-bg-active-hover: $ci-2;
+$topbar-link-bg-active-hover: $ci-1;
 
 
 $topbar-dropdown-bg: $ci-3; // Background Mobile Navigation
 $topbar-dropdown-link-color: #000;
-$topbar-dropdown-link-bg: $ci-2;
+$topbar-dropdown-link-bg: $ci-1;
 
 $topbar-menu-link-color-toggled: $ci-1;
 $topbar-menu-icon-color-toggled: $ci-1;
@@ -109,7 +109,7 @@ $topbar-menu-icon-color-toggled: $ci-3;
 /* Footer
 ------------------------------------------------------------------- */
 
-$footer-bg          : $ci-2;
+$footer-bg          : $ci-1;
 $footer-color       : #fff;
 $footer-link-color  : $grey-2;
 
