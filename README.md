@@ -9,6 +9,9 @@ beyond the expected configuration for our specific needs:
 * Code in `_layouts/page.html` has been adjusted to allow the
   directory structure we are trying to use (in particular to allow
   post images to reside in `/path/to/post/images`)
+* Code in `layouts/page.html` has been adjusted to reduce the left
+  margin: the class `margin-offset-2` has been removed from the `div`
+  if `page.sidebar == NULL`.
 * Code in `_includes/footer.html` has been adjusted to adapt to the
   page naming scheme already in use. The `More ›` link in the footer
   now points to `/about/` instead of `/info`.
