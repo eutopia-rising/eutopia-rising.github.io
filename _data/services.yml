@@ -1,0 +1,25 @@
+- menu_name: "Navigation"
+
+- title: Home
+  url: "/"
+  name: Home
+
+- title: Our Mission
+  url: "/about/"
+  name: "Mission"
+
+- title: Our Principles
+  url: "/principles/"
+  name: Principles
+
+- title: Events
+  url: "/events/"
+  name: Events
+
+- title: Become a Voyager
+  url: "/apply/"
+  name: Apply
+
+- title: Support Us
+  url: "https://www.patreon.com/eutopia_rising"
+  name: Support Us
