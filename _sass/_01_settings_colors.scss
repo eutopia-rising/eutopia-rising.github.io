@@ -23,27 +23,29 @@ $body-bg            : #fdfdfd;
 
 
 /* Corporate Identity Colorpalette
-   https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
+   https://color.adobe.com/create/color-wheel
+   Analogous, with middle #931E4B (using ABCD)
+   Two last from Triad, with middle #931E4B (using DE)
 ------------------------------------------------------------------- */
 
-$ci-1               : #334D5C; // dark turquoise
-$ci-2               : #45B29D; // turquoise
-$ci-3               : #EFC94C; // yellow
-$ci-4               : #E27A3F; // orange
-$ci-5               : #DF4949; // red
-$ci-6               : #A1D044; // green
+$ci-1               : #A13118; // pink
+$ci-2               : #AB1F1A; // pink
+$ci-3               : #931E4B; // dark pink
+$ci-4               : #AB1A9A; // reddish
+$ci-5               : #0f7294; // light blue
+$ci-6               : #0b3847; // dark teal
 
 
 
 /* Foundation Color Variables
 ------------------------------------------------------------------- */
 
-$primary-color      : $ci-1;
+$primary-color      : $ci-3;
 $secondary-color    : $ci-6;
-$alert-color        : $ci-5;
-$success-color      : $ci-6;
+$alert-color        : $ci-2;
+$success-color      : $ci-5;
 $warning-color      : $ci-4;
-$info-color         : $ci-1;
+$info-color         : $ci-6;
 
 
 
@@ -76,7 +78,7 @@ $topbar-bg-color    : $body-bg;
 $topbar-bg          : $topbar-bg-color;
 
 
-$topbar-dropdown-toggle-color: $ci-1;
+$topbar-dropdown-toggle-color: $ci-3;
 
 $topbar-link-color  : #000;
 $topbar-link-color-hover: #000;
@@ -84,14 +86,14 @@ $topbar-link-color-active: #000;
 $topbar-link-color-active-hover: #000;
 
 $topbar-dropdown-label-color: $ci-2;
-$topbar-dropdown-link-bg-hover: $ci-6;
+$topbar-dropdown-link-bg-hover: $ci-3;
 
-$topbar-link-bg-active: $ci-6; // Active Navigation Link
-$topbar-link-bg-hover: $ci-6;
+$topbar-link-bg-active: $ci-3; // Active Navigation Link
+$topbar-link-bg-hover: $ci-3;
 $topbar-link-bg-active-hover: $ci-2;
 
 
-$topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
+$topbar-dropdown-bg: $ci-3; // Background Mobile Navigation
 $topbar-dropdown-link-color: #000;
 $topbar-dropdown-link-bg: $ci-2;
 
@@ -99,22 +101,22 @@ $topbar-menu-link-color-toggled: $ci-1;
 $topbar-menu-icon-color-toggled: $ci-1;
 $topbar-menu-link-color: #000;
 $topbar-menu-icon-color: #000;
-$topbar-menu-link-color-toggled: $ci-6;
-$topbar-menu-icon-color-toggled: $ci-6;
+$topbar-menu-link-color-toggled: $ci-3;
+$topbar-menu-icon-color-toggled: $ci-3;
 
 
 
 /* Footer
 ------------------------------------------------------------------- */
 
-$footer-bg          : $grey-8;
+$footer-bg          : $ci-2;
 $footer-color       : #fff;
-$footer-link-color  : $ci-6;
+$footer-link-color  : $grey-2;
 
 
-$subfooter-bg       : $grey-13;
-$subfooter-color    : $grey-8;
-$subfooter-link-color: $grey-8;
+$subfooter-bg       : $ci-3;
+$subfooter-color    : $grey-2;
+$subfooter-link-color: $grey-2;
 
 
 

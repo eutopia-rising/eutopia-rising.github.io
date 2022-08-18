@@ -11,7 +11,7 @@ Modular Scale › http://www.modularscale.com//?16,36&px&1.25&web&table
 
 @import "functions"; // Allows the use of rem-calc() or lower-bound() in your settings
 
-
+@import "inter-var";
 
 /* Fonts
 ------------------------------------------------------------------- */
@@ -21,9 +21,8 @@ $rem-base: $base-font-size;
 // $base-line-height is 24px while $base-font-size is 16px
 $base-line-height: 1.5 !default;
 
-
-$font-family-sans-serif: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
-$font-family-serif: "Volkhov", Georgia, Times, serif;
+$font-family-sans-serif:  "Inter var", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
+$font-family-serif: NonBreakingSpaceOverride, "Hoefler Text", Garamond, "Times New Roman", serif;
 $font-family-monospace: "Lucida Console", Monaco, monospace;
 
 $body-font-family: $font-family-sans-serif;

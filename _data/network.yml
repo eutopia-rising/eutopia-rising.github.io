@@ -1,21 +1,25 @@
-- menu_name: "Dankeschön"
+- menu_name: "Navigation"
 
-- name: "Icons by Daniel Bruce"
-  url: "http://entypo.com/"
-  class: "network-entypo"
-  title: "Icons by Daniel Bruce"
+- title: Home
+  url: "/"
+  name: Home
 
-- name: "Built on Foundation"
-  url: "http://foundation.zurb.com/"
-  class: "services-newsletter"
-  title: "Built on Foundation"
+- title: Our Mission
+  url: "/about/"
+  name: "Mission"
 
-- name: "Images by Unsplash"
-  url: "http://unsplash.com/"
-  class: "rss-link"
-  title: "Images by Unsplash"
+- title: Our Principles
+  url: "/principles/"
+  name: Principles
 
-- name: "Using Backstretch by Scott Robbin"
-  url: "http://srobbin.com/jquery-plugins/backstretch/"
-  class: "sitemap-link"
-  title: "Using Backstretch by Scott Robbin"
+- title: Events
+  url: "/events/"
+  name: Events
+
+- title: Become a Voyager
+  url: "/apply/"
+  name: Apply
+
+- title: Support Us
+  url: "https://www.patreon.com/eutopia_rising"
+  name: Support Us
