@@ -12,6 +12,7 @@ Modular Scale › http://www.modularscale.com//?16,36&px&1.25&web&table
 @import "functions"; // Allows the use of rem-calc() or lower-bound() in your settings
 
 @import "inter-var";
+@import "gill-sans";
 
 /* Fonts
 ------------------------------------------------------------------- */
@@ -29,7 +30,7 @@ $body-font-family: $font-family-sans-serif;
 $body-font-weight: normal;
 $body-font-style: normal;
 
-$header-font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+$header-font-family: "Gill Sans Light", "Gill Sans", Calibri, sans-serif;
 
 
 
