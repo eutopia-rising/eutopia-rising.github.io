@@ -500,3 +500,56 @@ font-smoothing: antialiased;
 .icon-warning:before { content: "\f131"; }
 .icon-xing:before { content: "\f135"; }
 .icon-youtube:before { content: "\f132"; }
+
+
+
+
+@font-face {
+  font-family: 'eutopiarising';
+  src: url('../fonts/eutopiarising.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/eutopiarising.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/eutopiarising.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/eutopiarising.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/eutopiarising.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+.icon-eutopialogosq:before,
+.icon-venus:before,
+.icon-mars:before,
+.icon-mercury:before,
+.icon-transgender:before,
+.icon-transgender-alt:before,
+.icon-venus-double:before,
+.icon-mars-double:before,
+.icon-venus-mars:before,
+.icon-mars-stroke:before,
+.icon-mars-stroke-v:before,
+.icon-mars-stroke-h:before {
+      display: inline-block;
+font-family: "eutopiarising";
+font-style: normal;
+font-weight: normal;
+font-variant: normal;
+line-height: 1;
+text-decoration: inherit;
+text-rendering: optimizeLegibility;
+text-transform: none;
+-moz-osx-font-smoothing: grayscale;
+-webkit-font-smoothing: antialiased;
+font-smoothing: antialiased;
+
+}
+
+.icon-eutopialogosq:before{ content: '\e800'; } /* '' */
+.icon-venus:before { content: '\f221'; } /* '' */
+.icon-mars:before { content: '\f222'; } /* '' */
+.icon-mercury:before { content: '\f223'; } /* '' */
+.icon-transgender:before { content: '\f224'; } /* '' */
+.icon-transgender-alt:before { content: '\f225'; } /* '' */
+.icon-venus-double:before { content: '\f226'; } /* '' */
+.icon-mars-double:before { content: '\f227'; } /* '' */
+.icon-venus-mars:before { content: '\f228'; } /* '' */
+.icon-mars-stroke:before { content: '\f229'; } /* '' */
+.icon-mars-stroke-v:before { content: '\f22a'; } /* '' */
+.icon-mars-stroke-h:before { content: '\f22b'; } /* '' */
+
