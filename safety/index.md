@@ -115,4 +115,4 @@ If sitting naked on furniture use a towel or wipe it down after you get up.
 # Event Safe Word & Other Safety
 
 * To call for immediate assistance from a play monitor or anyone else, call out, “Safe Word”. Please remember to have a safe word negotiated with your play partners. 
-* Let monitors know before particularly loud/intense scenes
+* Let monitors know before particularly loud/intense scenes.
