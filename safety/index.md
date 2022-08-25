@@ -14,14 +14,14 @@ Consent for any play, physical or verbal, is required. A verbal ‘yes’ or cle
 
 This also means asking permission for specific activities before attempting to initiate. 
 
-**For example, ask ‘would you like a hug?’ from a distance before stepping closer, arms wide. It makes saying no much easier and comfortable.**
+**For example, ask ‘would you like a hug?’ from a distance before stepping closer, arms wide. It makes saying no much easier and more comfortable.**
 
 Other Examples of asking for consent:
 
 * ‘May I move my hand down to your butt?’ 
 * ‘Would you like to kiss?’
 * ‘My love for you is like a truck and would you like to making fuck?’
-* Asking if people would like to interact with you a little before speaking to them in a baby voice.
+* Ask if someone would like to interact with you a little before speaking to them in a baby voice.
 
 Examples of giving consent:
 
@@ -32,7 +32,7 @@ Examples of giving consent:
 
 Consent for one activity does not imply consent for another — ask before beginning a new activity. 
 
-This includes touching a new body part even if other parts are already being touched, also if ‘sex’ is understood to be happening and penetration an end goal. 
+This includes touching a new body part even if other parts are already being touched; also, whether ‘sex’ is understood to be happening and if penetration is a goal. 
 
 Try not to give a blanket, ‘you can do anything’, particularly with people you haven’t played with before. It not only protects you, it helps them respect your boundaries. Not everyone has the same idea of what a reasonable ‘anything’  is. 
 
@@ -50,16 +50,16 @@ If you are unsure, give them an out — ask if they would prefer to not do the a
 
 # Etiquette
 
-* Give scenes/play space. If you want to watch, watch from a respectful distance and try not to occupy the players’ attention (unless they indicate that is welcome)
+* Give scenes/play space. If you want to watch, watch from a respectful distance and try not to occupy the players’ attention (unless they indicate that is welcome).
 * Don’t interrupt scenes.
 * Don’t touch toys and items that are not yours.
 * Clean up after yourself.
-* Signs will be on equipment for instructions.
+* Follow signs on equipment for instructions, and provide a sign if providing equipment.
 * Please be considerate of space and play furniture. If people want to play on it, see if you can talk or sit elsewhere. 
-* Be mindful of how much space you are occupying. Particularly when using long toys, such as whips, crops, canes, etc… If on a bed, do not extend toys beyond the bed edges
-* Ask a party monitor if you are unsure of something
-* Please try and eat mainly in the kitchen/bar area
-* No glass containers in the play space — store in the kitchen/bar area
+* Be mindful of how much space you are occupying. Particularly when using long toys, such as whips, crops, canes, etc. If on a bed, do not extend toys beyond the bed edges.
+* Ask a party monitor if you are unsure of something.
+* Please try and eat mainly in the kitchen/bar area.
+* No glass containers in the play space — store them in the kitchen/bar area.
 
 # Allergies, Smoking & Other Notes
 
@@ -74,7 +74,7 @@ No photos except in the designated photo area. No photos without explicit consen
 
 # Intoxication
 
-* Eutopia Rising is not a dry party. You may bring and use alcohol and other substances responsibly. 
+* This is not a dry party. You may bring and use alcohol and other substances responsibly. 
 * Please know your limits and take a break and/or ask for help if you become too intoxicated to play safely or give consent deliberately. 
 * Be aware of your compromised abilities when undertaking activities, particularly new to you or your partners.
 * Be aware of your partners’ level of intoxication and the impact on their capacity to give consent. Decline further activity if your partner is too intoxicated and help them settle into a safe space to recover or go home. 
@@ -95,13 +95,13 @@ If sitting naked on furniture use a towel or wipe it down after you get up.
 * Blood: Play must stop if any blood is drawn, and treatment and clean up completed. Do not perform any activities that break the skin or have a high probability of drawing blood. 
 * Blades/Knives: Do not do knife play. Do not bring out sharp blades.
 * Fireplay: No fireplay. No open flames in the play area. 
-* Wax Play: There will be a wax play area. This is the only area this is permitted. Please plan ahead for clean up, such as plastic sheeting underneath.
+* Wax Play: The only area this is permitted is in the area reserved for it. Please plan ahead for clean up, such as plastic sheeting underneath.
 * Firearms/Stun Gun/Pepper Spray/Mace: Real or fake are prohibited. Do not bring to the event. 
-Watersports (pee), Scat (poo), and enemas: These activities are not permitted. 
+* Watersports (pee), Scat (poo), and enemas: These activities are not permitted. 
 * CNC: Consensual Non-Consent is not allowed. This means no simulated rape or scene/struggle that looks non-consensual. 
 * No Race play, no Nazis.
 * No police costumes. 
-* No slave/master verbiage or imagery—let’s find more creative ways to play with dom/sub dynamics to create a more inclusive space
+* No slave/master verbiage or imagery — let’s find more creative ways to play with dom/sub dynamics to create a more inclusive space.
 * Breath Play and related: 
   - No airflow restrictions i.e. covering the nose/mouth with hand/material
   - No blood chokes
@@ -113,4 +113,4 @@ Watersports (pee), Scat (poo), and enemas: These activities are not permitted.
 # Event Safe Word & Other Safety
 
 * To call for immediate assistance from a play monitor or anyone else, call out, “Safe Word”. Please remember to have a safe word negotiated with your play partners. 
-* Let DMs know before particularly loud/intense scenes
+* Let monitors know before particularly loud/intense scenes
