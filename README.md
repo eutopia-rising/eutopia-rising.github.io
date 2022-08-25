@@ -17,6 +17,7 @@ beyond the expected configuration for our specific needs:
   now points to `/about/` instead of `/info`.
 * `_sass/_02_settings_typography.scss` has been adjusted to include
   old font choices.
+* A custom made symbol font has been created to include the Eutopia Rising logo and several additional useful symbols to be available through the `.icon-eutopialogosq` CSS class (would place the logo just before the thing that has that CSS class).
 
 
 ## How do I add a new event?
