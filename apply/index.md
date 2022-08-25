@@ -12,6 +12,6 @@ As an approved Voyager, you'll receive invitations to Eutopia Rising's private, 
 
 **Lunar Events** are adults-only parties and late night sexy fun. We carefully curate our guest list in the interests of greater safety and accountability. Like everything we do, enthusiastic consent is the golden rule. We also host **Solar Events** which are open to the wider community.
 
-**[Apply to be a Voyager](airtable.com/shr7RtHo2x8n0mNP3)**
+**[Apply to be a Voyager](https://airtable.com/shr7RtHo2x8n0mNP3)**
 
 **Your personal information will be kept strictly confidential and will only ever be visible to the triumvirate vetting team of the Eutopia Rising crew.**
