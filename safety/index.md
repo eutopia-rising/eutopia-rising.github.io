@@ -65,12 +65,12 @@ If you are unsure, give them an out — ask if they would prefer to not do the a
 
 * Please do not bring nuts.
 * There will be many latex sex supplies at this party.
-* Smoking: No smoking or vaping in the play area. 
-* Scents: We want everyone to feel the most themselves, but out of consideration for more sensitive party goers, please consider wearing less or no perfumes/colognes, etc…
+* No smoking or vaping in the play area. 
+* We want everyone to feel the most themselves, but out of consideration for more sensitive party goers, please consider wearing less or no **scents** (perfumes/colognes, etc.)
 
 # Photos
 
-No photos except in the designated photo area. No photos without explicit consent of everyone in the photo, including ‘in the background’.
+No photos without explicit consent of everyone in the photo, including ‘in the background’. Use the wall.
 
 # Intoxication
 
@@ -80,13 +80,15 @@ No photos except in the designated photo area. No photos without explicit consen
 * Be aware of your partners’ level of intoxication and the impact on their capacity to give consent. Decline further activity if your partner is too intoxicated and help them settle into a safe space to recover or go home. 
 * The party monitors will also step in and stop play and help people recover if they observe people are too intoxicated. 
 
-# Safer Sex / Cleaniness Policies
+# Safer Sex / Cleanliness Policies
 
 Safer sex is encouraged, but not required at this party. 
 
 Safer sex supplies such as condoms, gloves, and lube are available.
 
-Please try and minimize your body fluid contact with furniture and sheets. Pup pads and other supplies are available. Clean up after yourself. 
+Please try and minimize your body fluid contact with furniture and sheets. Pup pads and other supplies are available. Clean up after yourself.
+
+Put a new sheet on a bed or surface you will be putting your skin and fluids on, and take the sheet to the laundry when you are done.
 
 If sitting naked on furniture use a towel or wipe it down after you get up. 
 
