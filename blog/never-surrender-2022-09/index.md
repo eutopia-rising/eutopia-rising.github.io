@@ -7,14 +7,15 @@ image:
 ---
 
 
-Your favorite chill queer-centered play party is going to the Play Space at the End of the Universe. Power up the improbability drive and know where your towel is. Share and Enjoy. 
+*Your favorite chill queer-centered play party is going to the Play Space at the End of the Universe. Power up the improbability drive and know where your towel is.* 
 
 ## 9/9/22
+
 
 **NEVER SURRENDER** is a recurring party that has taken several forms over several years, both live and virtual, before going on an extended hiatus some time ago. But it was never gone, never forgotten. Now, we return to life, and to a live event, with the same good vibes we've always had.
 We are a place to play, to feel safe, and to reconnect. We are a chill space for good times with good people. We are a party and a protest, a ritual and a revel. We are a circle of love spitting naked defiance at a world in crisis.
 
-Make loud noises. Leave lipstick traces. Make memories. Talk, play, show off, or just be a witness to the magic. Come as whatever gender you are, wear whatever makes you happy.
+Share and Enjoy.
  
 🎂🍰🍨🎁🎉㊗️🎂🍰🍨🎁🎉㊗️🎂🍰🍨🎁🎉㊗️🎂🍰
 
