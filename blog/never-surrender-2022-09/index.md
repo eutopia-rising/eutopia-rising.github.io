@@ -9,7 +9,7 @@ image:
 
 Your favorite chill queer-centered play party is going to the Play Space at the End of the Universe. Power up the improbability drive and know where your towel is. Share and Enjoy. 
 
-## About this event
+## 9/9/22
 
 **NEVER SURRENDER** is a recurring party that has taken several forms over several years, both live and virtual, before going on an extended hiatus some time ago. But it was never gone, never forgotten. Now, we return to life, and to a live event, with the same good vibes we've always had.
 We are a place to play, to feel safe, and to reconnect. We are a chill space for good times with good people. We are a party and a protest, a ritual and a revel. We are a circle of love spitting naked defiance at a world in crisis.
@@ -20,7 +20,7 @@ Make loud noises. Leave lipstick traces. Make memories. Talk, play, show off, or
 
 Several of our Voyagers, volunteers, and organizers, by sheer cosmic coincidence, are celebrating their 42nd birthdays this year - just like the Hitchhiker's Guide to the Galaxy itself! What better way to come together and commemorate the occasion, than to throw a Hitchhiker's Guide to the Galaxy-themed play party?!
 
-🗺🏏👍🫖🍵🗺🏏👍🫖🍵🗺🏏👍🫖🍵🗺🏏👍🫖🍵
+🗺🏏👍🫖🥪🗺🏏👍🫖🥪🗺🏏👍🫖🥪🗺🏏👍🫖🥪
 
 Get weird, wild, and planetary with your costume! Be a galactic glam rock star, a hyperspace hitchhiker, or a robot with all the right attachments. Or wear a soiled bathrobe and complain about the lack of tea. It’s a real big universe, there’s room for everyone in it. The real trick though, is to reach your own explosive conclusion at the same time the universe inevitably does…
 
@@ -33,6 +33,16 @@ We are returning to our beloved downtown Manhattan venue. After the success of o
 Around about **7:45** we will kick off the welcome circle and get acquainted, so don't miss it. It’s an opportunity to introduce yourself, share your intentions, put your hopes out there. Tell us where, in all of the infinite vastness of space and time, you’d like to pop off and visit for a casual brunch. 
 
 Then we set the scene: chat, exchange saucy compliments, dance, be bravely social. Get close, get friendly, maybe try out something new. Or just see what it feels like to be in a room with people again. There's no pressure to do anything other than what feels right for you in the moment.
+
+🥪🎂🍹🍾🫖🥪🎂🍹🍾🫖🥪🎂🍹🍾🫖🥪🎂🍹🍾🫖
+
+BYOB; sodas and snacks will be provided. There will probably not be tea.
+
+😷💉😷💉😷💉😷💉😷💉😷💉😷💉😷💉😷💉😷💉
+
+For this party we require you to be fully up to date with your COVID vaccination [as currently defined by the CDC](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/stay-up-to-date.html), including eligible boosters.
+
+In addition to vaccination you must take a rapid test the day of the party, before you arrive at the venue. Please take a photo of your negative test and submit it to us in advance, or be prepared to show at the door.
 
 🚫🛑🚫❌🚫🛑🚫❌🚫🛑🚫❌🚫🛑🚫❌🚫🛑🚫❌
 
