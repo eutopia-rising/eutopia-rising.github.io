@@ -1,7 +1,6 @@
 ---
 title: "Coronavirus Update"
 date: "2022-08-26"
-event: true
 ---
 
 ## Coronavirus Update #3
