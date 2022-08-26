@@ -6,7 +6,7 @@ event: true
 
 ## Coronavirus Update #3
 
-Going on 30 months into a pandemic, Eutopia Rising continues to hold high standards for how we keep each other safe. We seek to balance social, emotional and physical need with input, disability awareness and medical understanding in an evolving set of practices to minimize harm. We hosted virtual events throughout 2020 and 2021 as long as we had capacity, and very carefully resumed in-person events in May 2022.
+Going on 30 months into a pandemic, Eutopia Rising continues to hold high standards for how we keep each other safe. We seek to balance social, emotional and physical need with input, disability awareness and medical understanding in an evolving set of practices to minimize harm. We hosted virtual events throughout 2020 and 2021 as long as we had capacity, and very carefully resumed in-person events in October 2021.
 
 Here’s what we are doing:
 
