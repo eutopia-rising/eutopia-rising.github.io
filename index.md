@@ -17,7 +17,7 @@ Interested? [Apply to be a Voyager now.]({{ '/apply/' | relative_url }})
 
 We are holding our Never Surrender parties again. After one on April 23 and one on July 29, our next party will be on September 9.
 
-**[Read our latest Coronavirus update.]({{ '/blog/coronavirus-update-2/' | relative_url}})**
+**[Read our latest Coronavirus update.]({{ '/blog/coronavirus-update-3/' | relative_url}})**
 
 * * *
 
