@@ -7,6 +7,6 @@ layout: page
 
 Reach out to us at [events@eutopia-rising.org](mailto:events@eutopia-rising.org?subject=&cc=&bcc=&body=)
 
-Want to hear more about what we've got in store? Sign up for regular updates from the Eutopia Rising crew:
+Join us on [Discord](https://discord.gg/6nhk4uFVhf)
 
-\[mc4wp\_form id="164"\]
+Follow our [Instagram](https://www.instagram.com/eutopia_rising/)
