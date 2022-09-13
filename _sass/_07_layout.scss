@@ -113,6 +113,11 @@ body.video cite { color: #fff; }
     #masthead-no-image-header {
         display: none;
     }
+
+
+    body div.row {
+	padding: 0 5px;
+    }
 }
 
 
@@ -135,6 +140,11 @@ body.video cite { color: #fff; }
     #masthead-with-text {
         padding: 60px 0;
         height: 300px;
+    }
+
+    
+    body div.row {
+	padding: 0 10px;
     }
 }
 
