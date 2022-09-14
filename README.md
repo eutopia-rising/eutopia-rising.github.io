@@ -6,10 +6,12 @@ beyond the expected configuration for our specific needs:
 
 * The size of the `#masthead` has been increased in
   `_sass/_07_layout.scss` to accommodate the logo.
+* Coded added to the screen size specific sections controlling the masthead to make the body padding increase for small screen sizes.
+* Top margin for title increased in `_layouts/page.html` to avoid navbar covering title on small screen sizes: `div` changed class from `t30` to `t50`.
 * Code in `_layouts/page.html` has been adjusted to allow the
   directory structure we are trying to use (in particular to allow
   post images to reside in `/path/to/post/images`)
-* Code in `layouts/page.html` has been adjusted to reduce the left
+* Code in `_layouts/page.html` has been adjusted to reduce the left
   margin: the class `margin-offset-2` has been removed from the `div`
   if `page.sidebar == NULL`.
 * Code in `_includes/footer.html` has been adjusted to adapt to the
